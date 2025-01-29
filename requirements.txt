@@ -1,0 +1,3 @@
+numpy==2.2.0
+opencv @ file:///build/source/modules/python/package/dist/opencv-4.9.0-py3-none-any.whl#sha256=c93039f7e6b4744bc5256c73416620fa4349e98f4167668e2277e12b997c3a85
+pillow==11.1.0
